@@ -1,28 +1,34 @@
 # 👋 Hola, soy Diana Brigada QA Engineer
 <p align="center">
-  <img src="https://www.freepik.es/foto-gratis/gafas-encuentran-computadora-portatil-reflejando-luz-pantalla-oscuridad_172419727.htm#fromView=keyword&page=1&position=2&uuid=e59654e7-8013-4007-936d-548d88f2271c&query=Linkedin+banner+informatica" alt="Banner de bienvenida o de QA Engineer">
+ <img width="1200" height="456" alt="QA" src="https://github.com/user-attachments/assets/220aafd4-80c4-40e7-bed6-6b4b3b0f5372" />
+
 </p>
 
-Mi trayectoria combina la ingeniería electrónica con un enfoque en el aseguramiento de la calidad de software (QA). Me especializo en la validación de productos electrónicos y estoy ampliando mi experiencia en automatización de pruebas y metodologías ágiles.
-A lo largo de mi carrera, he trabajado en proyectos que abarcan desde el diseño y validación de equipos de prueba hasta la mejora continua de procesos de fabricación, siempre enfocado en asegurar la calidad y fiabilidad de los productos.
+QA Engineer con formación en ingeniería y experiencia en validación técnica y pruebas funcionales. Especializada en testing de APIs REST, análisis de respuestas HTTP, validación de payloads JSON y control de calidad de servicios backend.
+Uso de Postman para pruebas manuales y automatizadas, Python para scripting y automatización de pruebas, y Jira para gestión de incidencias, seguimiento de defectos y trabajo colaborativo en equipos ágiles. 
+Busco integrarme a equipos de desarrollo donde pueda aportar valor en pruebas de API, automatización y mejora continua de la calidad.
 
-## 🛠️ Habilidades y Herramientas
-
-| Categoría | Herramientas |
-| :--- | :--- |
-| **Automatización** | Python, Selenium, Postman |
-| **Gestión QA** | JIRA, TestRail, Diseño de Casos de Prueba |
-| **Control de Versiones** | Git, GitHub |
-| **Entornos** | Android Studio, Web, Bases de Datos SQL |
-| **Pruebas API** | Postman, Swagger |
+### 🛠️ Stack de herramientas  
+- 🧩 **Testing:** Postman · API REST · HTTP · JSON  
+- 🤖 **Automatización:** Python (scripting y pruebas)  
+- 🗄️ **Datos:** SQL  
+- 📋 **Gestión:** Jira  
+- 🔁 **Metodologías:** Agile / Scrum  
 
 ---
 
-## 🚀 Proyectos Destacados
+### 🚀 En qué estoy trabajando  
+- Fortaleciendo habilidades en **API Testing y automatización**
+- Buenas prácticas de **QA y testing backend**
+- Documentación clara y trazable de defectos
 
-* **[qa-project-Urban-Routes]**: En este proyecto probé la validación de la interoperabilidad (E2E) en una plataforma de gestión de scooters, asegurando la correcta sincronización entre el Front-End de la aplicación Web (Consumidor) y la aplicación Móvil (Repartidor) a lo largo del flujo crítico de negocio (creación y aceptación del pedido). Utilicé la documentación de la API para la gestión de datos de prueba y la manipulación de estados de pedidos, realizando API Testing enfocado en la capa de servicios. Complementé las pruebas funcionales con la validación de datos backend, ejecutando consultas SQL directamente en la Base de Datos a través de Cygwin para verificar la persistencia y la integridad de las transacciones. Finalmente, gestioné y documenté todas las inconsistencias encontradas en la herramienta JIRA. 
-* **[api\_stand\_tests]**: En este proyecto trabajé con la documentación del back - end de una aplicación de pedidos de comida, cubrí nuevas funcionalidades agregadas verificando las respuestas a los endpoints solicitados utilizando Postman, diseñé la lista de comprobación para cubrir las funcionalidades y envié informes de errores en Jira en los casos dónde encontré irregularidades.
+---
 
+### 🤝 ¿Colaboramos?  
+💬 Abierta a oportunidades como **QA Engineer / QA Junior**  
+📫 Conecta conmigo en **LinkedIn** o revisa mis repositorios
+
+✨ _La calidad no se prueba al final, se construye desde el inicio._
 ---
 
 ## 📞 Contáctame
